@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptEdit", "ScriptEdit.csproj", "{0A23FF8B-3517-4FE6-BB1E-9951FF9E79B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A23FF8B-3517-4FE6-BB1E-9951FF9E79B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A23FF8B-3517-4FE6-BB1E-9951FF9E79B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A23FF8B-3517-4FE6-BB1E-9951FF9E79B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A23FF8B-3517-4FE6-BB1E-9951FF9E79B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34F5EE35-5499-4120-B057-4915331237D8}
+	EndGlobalSection
+EndGlobal
